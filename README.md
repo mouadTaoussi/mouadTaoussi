@@ -16,4 +16,9 @@
 - Above + NodeJS + Typescript + GraphQL = Full-Stack dev 😒 
 - Mongodb + SQL + MYSQL = Full-stack dev 😊👍
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mouadTaoussi&theme=dracula&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mouadTaoussi&theme=dracula&hide=commits)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="">
+<img height="180em" src="https://mz-github-stats.vercel.app/api?username=mouadTaoussi&show_icons=true&hide_border=true&theme=dracula"/>
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=mouadTaoussi&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
