@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting well at open source, along side improving my personnel projects below on pinned section!
+- 🔭 I’m currently working on getting well at open source, along side improving my personnel projects below on Pinned section!
 - 🌱 I’m currently learning how to open source like a pro to share my experience!
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
