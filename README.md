@@ -16,3 +16,4 @@
 - Above + NodeJS + Typescript + GraphQL = Full-Stack dev 😒 
 - Mongodb + SQL + MYSQL = Full-stack dev 😊👍
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mouadTaoussi&theme=dracula&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
