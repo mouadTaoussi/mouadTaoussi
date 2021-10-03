@@ -24,5 +24,5 @@
 <img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=mouadTaoussi&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
   
 <!--  Joke  -->
- ### You might laugh if you read this Joke 😊
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!--  ### You might laugh if you read this Joke 😊
+![Jokes Card](https://readme-jokes.vercel.app/api) -->
